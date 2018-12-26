@@ -4,7 +4,7 @@ This project uses MADDPG - Multi Agent Deep Deterministic Policy Gradient. <br>
 
 This algorithm uses the framework of centralized training with decentralized execution as described by the original paper. Both agents have its own Actors and Critics. The Actors take into only its agent's own state observation as input, whereas the Critics takes into the full state observation and both agents' actions as input. The approach of multi-agent decentralized actor with centralized critic is illustrated below:
 
-![Alt Text](link)
+![Alt Text](https://github.com/bonniesjli/MADDPG_Tennis_UnityML/blob/master/asset/MARL.png)
 
 #### Model Architecture
 ACTOR NETWORK: <br>
@@ -34,7 +34,7 @@ CRITIC NETWORK: <br>
 
 ### Plot of Rewards
 
-![Alt Text](link)
+![Alt Text](https://github.com/bonniesjli/MADDPG_Tennis_UnityML/blob/master/asset/MADDPG.png)
 
 ### Ideas for Future Work
 * Exploration is a very important aspect in solving this environment. For my implementation, I added fully random exploration for the first 1200 episodes and partly random exploration for the following 900 episodes. Ideas in working towards better exploration includes:
