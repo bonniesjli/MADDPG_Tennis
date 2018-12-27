@@ -4,7 +4,7 @@
 [image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
 
 
-# Project 3: Collaboration and Competition
+# MADDPG for Tennis UnityML
 
 This is an implementation of MADDPG Multi Agent Deep Deterministic Polic Gradient to the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
 
