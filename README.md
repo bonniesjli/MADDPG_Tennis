@@ -50,5 +50,3 @@ Run file `Tennis.ipynb` to run the agent.
 ### Reference
 * "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments", Lowe et al, 2015<br>
 https://arxiv.org/abs/1706.02275 <br>
-* Github Repository `deep-reinforcement-learning`, Udacity. <br>
-https://github.com/udacity/deep-reinforcement-learning<br>
